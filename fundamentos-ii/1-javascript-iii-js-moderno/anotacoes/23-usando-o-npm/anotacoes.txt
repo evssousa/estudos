@@ -1,0 +1,16 @@
+Anotações de alguns comandos do NPM
+
+- Iniciar um projeto
+npm init
+
+- Instalar pacote
+npm install --save
+
+- Instalar dependencias somente no desenvolvimento
+npm install --save-dev
+
+- Instalar dependencias globais (no nosso computador)
+npm install --global
+
+- Remover uma dependencias
+npm uninstall

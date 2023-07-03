@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Terceira forma, puxando o arquivo javascript a partir de um arquivo, mas se utilizado aqui, deve conter o defer dentro da tag, para que este seja executado por último. -->
+    <script src="./script.js" defer></script>
+
+    <title>Document</title>
+</head>
+<body>
+    
+    <!-- Primeira forma utilizando o javacript dentro do HTML -->
+    <script>
+        let nome = 'Everson'
+        let x = 5
+
+        console.log(nome)
+        console.log(x)
+    </script>
+
+    <!-- Segunda forma puxando o arquivo javascript a partir de um arquivo -->
+    <script src="./script.js"></script>
+</body>
+</html>
