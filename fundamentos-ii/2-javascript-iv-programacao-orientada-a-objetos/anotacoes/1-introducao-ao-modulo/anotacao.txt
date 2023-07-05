@@ -1,0 +1,13 @@
+O que é programação orientada a objetos
+
+Fundamentos da POO:
+- Associação
+- Emcapsulamento
+- Herança
+- Polimorfismo
+
+Como usar POO no javascript
+- Classes e instâncias
+- Construtores
+- Acessadores
+- E muito mais...
