@@ -16,8 +16,6 @@ const livro = {
     }
 }
 
-
-
 console.log(livro.titulo) // Eragon
 
 livro.addEstoque(50)
