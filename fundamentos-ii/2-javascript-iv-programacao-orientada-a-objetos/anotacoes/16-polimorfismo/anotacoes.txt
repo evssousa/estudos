@@ -1,0 +1,10 @@
+Polimorfismo é o conceito que descreve o ato de um objeto poder assumir diferentes formas.
+
+Na POO, isso pode ser percebido na sobescrita de métodos.
+
+No javascript, uma classe filha pode ter suas próprias implementações dos métodos da classe mãe. A isso damos o nome de sobescrita de métodos.
+
+Exemplo:
+- A classe Veiculo possui alguns atributos e um método mover()
+
+- As classes Bicicleta, Carro, Navio e Aviao todas são filhas de Veiculo, porém cada uma delas implementa o método mover() de uma forma diferente (sobrescrevendo o método)
