@@ -1,0 +1,7 @@
+São atributos e métodos definidos em uma classe que não dependem de uma instância para serem utilizados.
+
+São acessados diretamente pela classe ao invés de por uma instância.
+
+Exemplos:
+- Uma classe precisa definir um atributo que seja globa, ou seja, que tenha o mesmo valor para todas as instâncias.
+- Uma classe de modelo para uma tabela no banco de dados onde os métodos devem está disponíveis mesmo que nenhuma instância tenha sido carregada ainda.
